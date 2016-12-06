@@ -57,6 +57,7 @@
 }
 
 #reihe {
+  /*
   width: 700px;
   display: inline-block;
   position: relative;
@@ -65,13 +66,26 @@
   margin-left: -350px;
   margin-right: auto;
   margin-bottom: -15px;
+  */
+}
+
+/*das ist der neue code anfang*/
+#reihe .col-md-4 {
+  text-align: center;
 }
 
 .bildchen {
-  width: 200px;
+/*die Bildbreite wurde weggenommen*/
   height: 235px;
   margin-bottom: 10px;
 }
+
+.thumbnail {
+  width: 200px;
+  margin: 0 auto;
+}
+
+/*das ist der neue code ende*/
 
 .meineus{
   margin-top: 10px;
@@ -130,6 +144,10 @@ tr td {
   color: #777;
 }
 
+#pkopf {
+  background-color: #EEFCFB;
+}
+
 #schluss{
   text-decoration: none;
   color: #777;
@@ -154,7 +172,7 @@ tr td {
   float: right;
 }
 
-.us{
+.us {
   color: #777;
   font-size: 14pt;
 }
