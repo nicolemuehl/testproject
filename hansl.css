@@ -1,0 +1,175 @@
+#alles {
+   background-color: #f8f8ff;
+   color: #777;
+   font-family: Georgia, serif;
+   text-decoration: none;
+  }
+
+#eigennavi {
+  background-color: #7beadf;
+  margin: 10px;
+}
+
+#knopferl {
+  margin: auto;
+  border: none;
+  height: 50px;
+  background-color: #7beadf;
+}
+
+#modalhintenoben {
+  height: 50px;
+  background-color: #7beadf;
+}
+
+#modalhintenunten {
+  height: 50px;
+  background-color: #bdf4ef;
+  padding: 8px;
+}
+
+#slidegrosse {
+  width: 700px;
+  height: 400px;
+  position: absolute;
+  left: 50%;
+  margin: 5px auto 30px -350px;
+
+}
+
+.umbruch {
+  position: relative;
+  margin-top: 390px;
+}
+
+#alleps {
+  margin: 10px 40px 0 40px;
+}
+
+.pnamen {
+  background-color: #bdf4ef;
+  text-align: center;
+}
+
+.pinhalt {
+  background-color: #EFEFEF;
+  margin: 5px;
+}
+
+#reihe {
+  width: 700px;
+  display: inline-block;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -350px;
+  margin-right: auto;
+  margin-bottom: -15px;
+}
+
+.bildchen {
+  width: 200px;
+  height: 235px;
+  margin-bottom: 10px;
+}
+
+.meineus{
+  margin-top: 10px;
+  font-size: 14px;
+  text-align: center;
+}
+
+#zusammen {
+  width: 800px;
+  left: 50%;
+  right: 50%;
+  margin: auto;
+}
+
+#verschicken {
+  width: 350px;
+  float: left;
+}
+
+#gfix {
+  resize: none;
+}
+
+#abst {
+  margin-top: 10px;
+  color: #777;
+}
+
+#rechtetab {
+  width: 350px;
+  float: right;
+}
+
+table {
+  width: 350px;
+  border: solid 1px #ccc;
+  background-color: #fff;
+}
+
+th {
+  background-color: #EEFCFB;
+  border: solid 1px #ccc;
+  padding: 5px;
+}
+
+tr td {
+  border: solid 1px #ccc;
+  padding: 5px;
+}
+
+#einmal {
+  margin-top: 10px;
+}
+
+#meineheads {
+  color: #777;
+}
+
+#schluss{
+  text-decoration: none;
+  color: #777;
+  width: 700px;
+  left: 50%;
+  right: 50%;
+  margin: auto;
+}
+
+#ah {
+  width: 250px;
+  float: left;
+}
+
+#beh {
+  float: left;
+
+}
+
+#ceh {
+  width: 250px;
+  float: right;
+}
+
+.us{
+  color: #777;
+  font-size: 14pt;
+}
+
+a {
+  color: #777;
+}
+
+a:hover {
+  text-decoration: none;
+  color: black;
+}
+
+#letzte {
+  border: none;
+  padding: none;
+  background-color: #f8f8ff;
+}
